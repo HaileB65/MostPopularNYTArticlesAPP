@@ -9,6 +9,8 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 public class MostPopularNytArticlesAppApplication {
 
+	// from index.html line 12. Program won't work with - th:unless="${articleList.isEmpty}" - placed on line 12.
+
 	@Bean
 	public RestTemplate restTemplate(RestTemplateBuilder builder) {
 		return builder.build();

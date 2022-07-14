@@ -18,4 +18,6 @@ public class NytResponse {
     @JsonProperty("num_results")
     private int numResults;
     private List<Article> results;
+
+
 }
