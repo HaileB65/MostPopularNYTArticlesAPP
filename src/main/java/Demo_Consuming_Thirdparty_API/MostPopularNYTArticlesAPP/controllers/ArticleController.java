@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/articles") // starting end point in browser
+@RequestMapping("/")
 public class ArticleController {
 
     @Autowired
