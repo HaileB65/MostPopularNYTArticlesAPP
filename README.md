@@ -2,7 +2,7 @@
 
 # Description:
 
-The Most Popular New York Times Articles App provides users with a list of most recent top 10 New York Times articles. This application provides a external links for users to read their desired article.
+The Most Popular New York Times Articles application provides users with a list of most recent top 10 New York Times articles. This application provides a external links for users to read their desired article.
 
 # Pictures:
 
