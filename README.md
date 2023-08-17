@@ -6,7 +6,7 @@ The Most Popular New York Times Articles App provides users with a list of most 
 
 # Pictures:
 
-![alt text](https://github.com/HaileB65/MostPopularNYTArticlesAPP/blob/main/src/resources/static/images/Most_Popular_NYT_Articles_Application_Screenshot.png)
+![alt text](https://github.com/HaileB65/MostPopularNYTArticlesAPP/blob/main/src/main/resources/static/Most_Popular_NYT_Articles_Application_Screenshot.png)
 
 # Authors and acknowledgement:
 
