@@ -1,4 +1,4 @@
-# MostPopularNYTArticlesAPP
+# Most Popular New York Times Articles Applicaiton
 
 # Description:
 
